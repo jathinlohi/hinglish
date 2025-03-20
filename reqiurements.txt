@@ -1,0 +1,8 @@
+transformer
+dotenv
+torch
+datasets
+snscrape
+selenium
+matplotlib
+seaborn
